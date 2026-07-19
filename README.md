@@ -77,6 +77,8 @@ This repository only hosts the releases; the source lives in a separate private 
 
 ## License
 
-Leashware is free to use as-is. It comes without warranty of any kind; you run it at your own risk. Please don't re-upload the exe elsewhere, link to this repo's releases instead. The source is not public.
+Leashware is free to use as-is and will stay that way. It comes without warranty of any kind; you run it at your own risk. Please don't re-upload the exe elsewhere, link to this repo's releases instead. The source is not public.
+
+If the app has been good to you, a coffee is always appreciated: [ko-fi.com/vulturif](https://ko-fi.com/vulturif).
 
 Built with Qt / PySide6 (LGPL). Censoring is powered by [NudeNet](https://github.com/notAI-tech/NudeNet) and the [DeepGHS anime censor model](https://huggingface.co/deepghs/anime_censor_detection). Uploads are hosted by [catbox.moe](https://catbox.moe).
