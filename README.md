@@ -74,3 +74,9 @@ Anything else: open an [issue](../../issues).
 ## About this repo
 
 This repository only hosts the releases; the source lives in a separate private repo.
+
+## License
+
+Leashware is free to use as-is. It comes without warranty of any kind; you run it at your own risk. Please don't re-upload the exe elsewhere, link to this repo's releases instead. The source is not public.
+
+Built with Qt / PySide6 (LGPL). Censoring is powered by [NudeNet](https://github.com/notAI-tech/NudeNet) and the [DeepGHS anime censor model](https://huggingface.co/deepghs/anime_censor_detection). Uploads are hosted by [catbox.moe](https://catbox.moe).
