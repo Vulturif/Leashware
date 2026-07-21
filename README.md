@@ -57,6 +57,7 @@ The censoring ships with a small model. Settings offers one-click downloads of t
 - The ctrlEm API rate-limits sends: one command per target every 3 seconds, at most 20 per minute overall. The app paces itself to stay inside those limits, so batches queue up on their own and you don't have to think about it.
 - Uploads go to catbox.moe, and catbox links are public to anyone holding the URL. Don't send anything through the app that must never leave your machine.
 - Everything the app stores lives in `%APPDATA%\ctrlEm\`: caches, history, credentials, models. Delete that folder for a factory reset.
+- **Usage statistics are opt-in and off by default.** If you tick "Share anonymous usage statistics" (in Settings, or on the first-run screen), the app sends anonymous counts of *which features get used* — nothing about who you play with, what you send, or what you search. No install or device identifier is stored. Leave it unticked and the app never phones home about your usage. You can change your mind any time in Settings.
 - Catbox sometimes stores a blank file for no apparent reason. Uploads are verified and retried automatically, so at worst you'll see a retry in the feed.
 
 ## When something breaks
