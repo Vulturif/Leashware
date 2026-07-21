@@ -2,7 +2,7 @@
 
 A CtrlEm helper client for Windows.
 
-Leashware is a desktop app for [ctrlem.com](https://ctrlem.com). The website works fine, but if you send a lot of commands it gets tedious, so this exists: one window with the whole command deck (popup images, sounds, messages, screen blanks, wallpapers, PiShock/Lovense triggers and the rest), plus image search, batch sending, history and automatic censoring on top.
+Leashware is a desktop app for [ctrlem.com](https://ctrlem.com). The website works fine, but if you send a lot of commands it gets tedious, so this exists: one window with the whole command deck (popup images, sounds, messages, screen blanks, wallpapers and the rest), plus image search, batch sending, history and automatic censoring on top.
 
 > ⚠️ **18+ only.** This is a tool for consensual adult play through the ctrlEm service, and some of the image sources it searches are adult sites.
 
